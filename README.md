@@ -1,2 +1,2 @@
-# pg_web
-Mi personal web page
+# My Personal Website
+This personal website was done as an exaple
