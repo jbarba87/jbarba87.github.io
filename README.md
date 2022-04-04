@@ -1,2 +1,2 @@
 # My Personal Website
-This personal website was done as an exaple
+This personal website was done as an example
